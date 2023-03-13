@@ -6,4 +6,4 @@ Este proyecto incluye código `HTML` y está pensado para:
 3. Interactuar con GitHub
 4. Mejorar nuestras habilidades en Git/GitHub
 ---
- ### Gracias por tus aportaciones
+ ### Gracias por tus aportaciones y comentarios
